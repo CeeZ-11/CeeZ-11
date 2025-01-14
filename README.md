@@ -8,16 +8,6 @@
 <p align="left">
   <!-- CodeWars -->
   <a href="https://www.codewars.com/users/CeeZ11" target="_blank" rel="noreferrer"> 
-    <img src="<h1 align="center">Hi 👋, I'm Gerard Senehi</h1>
-<h3 align="center">A passionate front-end developer from PH</h3>
-
-- 🌱 I’m currently learning **Full Stack JavaScript in The Odin Project**  
-- 📫 How to reach me: **seamorestrabon@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- CodeWars -->
-  <a href="https://www.codewars.com/users/CeeZ11" target="_blank" rel="noreferrer"> 
     <img src="[https://www.codewars.com/packs/assets/logo.61192cf7.svg](https://www.codewars.com/packs/assets/logo.61192cf7.svg)" alt="CodeWars" width="40" height="40"/> 
   </a>
   <!-- CodePen -->
