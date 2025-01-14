@@ -38,7 +38,7 @@
   </a>
   <!-- Twitter -->
   <a href="https://x.com/Seeeeaz" target="_blank" rel="noreferrer"> 
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" alt="Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg)" alt="Twitter" width="40" height="40"/> 
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg](https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg)" alt="Twitter" width="40" height="40"/> 
   </a>
 </p>
 
